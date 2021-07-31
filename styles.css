@@ -30,7 +30,7 @@ body {
 	font: 18px;
 }
 
-.calculator span {
+.num {
 	display: grid;
 	width: 60px;
 	height: 60px;
@@ -40,7 +40,7 @@ body {
 	border: 1px solid rgba(0, 0, 0, .1);
 }
 
-.calculator span:active {
+.num:active {
 	background: #74ff3b;
 	color: #111;
 }
@@ -48,7 +48,7 @@ body {
 .clear {
 	grid-column: span 2;
 	width: 120px;
-	background: #ff3077;
+	background-color: #ff3077;
 }
 
 .plus {
@@ -57,5 +57,5 @@ body {
 }
 
 .equal {
-	background: #03b1ff;
+	background-color: #03b1ff;
 }
