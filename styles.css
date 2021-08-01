@@ -10,9 +10,10 @@ body {
 	display: flex;
         align-items: center;
         min-height: 100vh;
-        background: linear-gradient(121deg, #28e87c, #2889e8);
-        background-size: 400% 400%;
-        animation: AnimationName 59s ease infinite;
+	 background: linear-gradient(121deg, #28e87c, #2889e8);
+    background-size: 400% 400%;
+
+    animation: AnimationName 59s ease infinite;
 }
 
 @keyframes gradient {
