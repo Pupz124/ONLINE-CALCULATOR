@@ -12,6 +12,7 @@ body {
         min-height: 100vh;
 	background: rgb(91,242,126);
         background: linear-gradient(302deg, #28E87C 13%, #2889E8 95%);
+	animation: gradient 10s ease infinite;
 }
 
 @keyframes gradient {
