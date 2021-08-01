@@ -16,7 +16,7 @@ body {
 	animation: gradient 10s ease infinite;
 }
 h1 {
-    margin-left: 200px;
+    margin: 200px;
     font-family:lato;
 }
 @keyframes gradient {
