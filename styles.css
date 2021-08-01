@@ -11,7 +11,7 @@ body {
         align-items: center;
         min-height: 100vh;
 	background: rgb(91,242,126);
-        background: linear-gradient(302deg, rgba(91,242,126,1) 13%, rgba(148,187,233,1) 95%);
+        background: linear-gradient(302deg, #28E87C 13%, #2889E8 95%);
 }
 
 @keyframes gradient {
